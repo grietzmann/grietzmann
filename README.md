@@ -18,7 +18,7 @@
 👊 Sou leitor assíduo de One Piece, e um grande fã do God Ussop.
 
 
-## Linguagens que domino:
+## Linguagens:
 	
 <div style="display: inline_block"><br>
 
