@@ -10,8 +10,6 @@
 ✝️ Tenho 25 anos,
 	
 🧐 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-
-👨‍💻 Gosto de trabalhar com desenvolvimento Front-End e Web.
 	
 🍀 Gostaria de poder ajudar em projetos Open-source.
 
