@@ -1,7 +1,9 @@
 ## Olá, eu sou o Maike, como posso te ajudar?
-
-<a href="https://github.com/grietzmann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Grietzmann github stats" /></a> |  <a href="https://github.com/grietzmann/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/grietzmann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  <div style="display: inline_block"><br>
 	
@@ -25,12 +27,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
-![C](https://img.shields.io/badge/C-0066ff?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-0000cc?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![Python](https://img.shields.io/badge/Python-0033cc?style=for-the-badge&logo=python&logoColor=yellow)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black)
-![React](https://img.shields.io/badge/-React-3366cc?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 </div>
   
