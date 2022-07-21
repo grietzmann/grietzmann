@@ -1,4 +1,4 @@
-<h1 align="center">Olá</h1>
+<h1 align="center">Olá, este perfil esta uma bagunca, mas estou trabalhando para organiza-lo(dias gastos nisso=3</h1>
 <h3 align="center">Sou Desenvolvedor Front-end</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grietzmann" alt="grietzmann" /></a> </p>
