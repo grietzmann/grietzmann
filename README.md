@@ -2,51 +2,52 @@
 # <div align="center"> "Faça pouco, ou faça muito, mas faça algo."</div>
 
 # Sobre o meu Github:
-<span align="center">
+<div align="center"><br />
   <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&theme=tokyonight&locale=en" alt="grietzmann" /> 
-</span>
+  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&theme=tokyonight&locale=en" alt="grietzmann" />
+  <br />
+  <br />
+  
+  <img height="175em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grietzmann&theme=tokyonight"/><br />
+
+  <img height="175em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grietzmann&theme=tokyonight" alt="grietzmann" /></div>
 
 #
 
 # Linguagens e ferramentas que estudo e trabalho atualmente:
-<div style="display: inline_block"><br>
+<div style="display: inline_block"align="center"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="angular" height="50" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg" />
   <img align="center" alt="mongodb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      
+  <img align="center" alt="ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Bash" height="50" width="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img align="center" alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img align="center" alt="sql server" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 </div>
 
 #
-# Linguagens que estou aprendendo e pretendo me aprofundar mais
-<img align="center" alt="janio-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="janio-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   
- 
- 
- 
- #
- <div> 
-  <a href="https://instagram.com/jan1ooo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:filhojanio67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jan1ooo/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<p align="left">
-<a href="https://twitter.com/myke_grietzmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myke_grietzmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maikel-grutzmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maikel-grutzmann" height="30" width="40" /></a>
-<a href="https://instagram.com/grietzmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grietzmann" height="30" width="40" /></a>
-</p>
+# Linguagens que estou aprendendo e pretendo me aprofundar mais:
+  <div style="display: inline_block"align="center"><br>
+<img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
+<img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> 
+<img align="center" alt="django" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> 
+<img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> 
+<img align="center" alt="go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /> 
+<img align="center" alt="kubernetes" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> 
+<img align="center" alt="mariadb" height="40" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" /> 
+<img align="center" alt="selenium" height="40" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" /> 
 
+  </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grietzmann&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="grietzmann" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&theme=tokyonight&locale=en" alt="grietzmann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grietzmann&theme=dark" alt="grietzmann" /></p>
-<img height="100em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grietzmann&theme=tokyonight"/> 
+# Para entrar em contato comigo:
+<div style="display: inline_block"align="center"><br>
+<a href="https://twitter.com/myke_grietzmann" target="blank"><img align="center" src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="myke_grietzmann"/></a>
+<a href="https://linkedin.com/in/maikel-grutzmann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maikel-grutzmann"/></a>
+<a href="https://instagram.com/grietzmann" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="grietzmann"/></a>
