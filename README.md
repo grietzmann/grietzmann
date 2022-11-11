@@ -50,5 +50,7 @@
 <div style="display: inline_block"align="center"><br>
 <a href="https://linkedin.com/in/maikel-grutzmann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maikel-grutzmann"/></a>
 <a href="https://instagram.com/grietzmann" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="grietzmann"/></a></div>
+
+#
 <div align=center>
-<footer>atualizado em 2022/novembro</footer></div>
+<footer> Atualizado em 2022/novembro</footer></div>
