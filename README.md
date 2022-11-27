@@ -3,14 +3,14 @@
 
 # Sobre o meu Github:
 <div align="center"><br />
-  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&theme=tokyonight&locale=en" alt="grietzmann" />
+  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&langs_count=10"/>
+  <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=truelocale=en" />
   <br />
   <br />
   
-  <img height="175em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grietzmann&theme=tokyonight"/><br />
+  <img height="175em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grietzmann"/><br />
 
-  <img height="175em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grietzmann&theme=tokyonight" alt="grietzmann" /></div>
+  <img height="175em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grietzmann"/></div>
 
 #
 
