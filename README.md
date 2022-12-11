@@ -12,7 +12,7 @@
 
   <img height="175em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grietzmann"/></div>
 
-#
+
 
 # Linguagens e ferramentas que estudo e trabalho atualmente:
 <div style="display: inline_block"align="center"><br>
