@@ -11,7 +11,7 @@
 * Maikel Grutzmann, 26 anos
 * Desenvolvedor Java
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
-* %{myexperience}
+* 0 Years, 9 Months and 1 Day since I started programming
 
 ## **Minhas habilidades:**
 <details>
@@ -105,6 +105,25 @@
 ## **Trabalhos recentes:**
 *This section is updated via Javascript.*
 
-%{recentworks}
+<a href="https://github.com/grietzmann/grietzmann">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=grietzmann&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grietzmann/Deus-e-bom">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=Deus-e-bom&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grietzmann/portfolio">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=portfolio&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grietzmann/grietzmann.portfolio">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=grietzmann.portfolio&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grietzmann/flexboxcss">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=flexboxcss&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grietzmann/Python">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=Python&theme=moltack&border_radius=20"/>
+  </a>
 
 <hr>
+
+
