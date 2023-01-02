@@ -103,7 +103,7 @@
 
 
 ## **Trabalhos recentes:**
-*This section is updated via Javascript.*
+
 
 <a href="https://github.com/grietzmann/grietzmann">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=grietzmann&theme=moltack&border_radius=20"/>
