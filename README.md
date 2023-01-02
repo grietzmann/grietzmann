@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=10C000&center=true&vCenter=true&width=1000&height=50&lines=Ol%C3%A1!+eu+sou+o+Maike%2C;Sou+Desenvolvedor+Java%2C;com+foco+em+Front-end.)](https://git.io/typing-svg)</p>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=grietzmann&show_icons=true&count_private=true&hide_border=true&title_color=10C000&icon_color=10C000&text_color=c9d1d9&bg_color=0d1117" alt="Maike github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&hide=html,css&layout=compact&hide_border=true&title_color=10C000&text_color=10C000&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grietzmann&layout=compact&hide_border=true&title_color=10C000&text_color=10C000&bg_color=0d1117" />
 </div>
 
 ## **Sobre Mim:**
