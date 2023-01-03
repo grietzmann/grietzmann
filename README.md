@@ -125,5 +125,5 @@
   </a>
 
 <hr>
-
+<footer align="center><p> 2 coríntios 5:17</p><footer>
 
