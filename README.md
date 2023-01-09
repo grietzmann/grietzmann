@@ -11,7 +11,7 @@
 * Maikel Grutzmann, 26 anos
 * Desenvolvedor Java
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
-* 0 Years, 9 Months and 7 Days since I started programming
+* 0 Years, 9 Months and 8 Days since I started programming
 
 ## **Minhas habilidades:**
 <details>
@@ -105,6 +105,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/grietzmann/4noobs">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=4noobs&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grietzmann/grietzmann">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=grietzmann&theme=moltack&border_radius=20"/>
   </a>
@@ -119,9 +122,6 @@
   </a>
 <a href="https://github.com/grietzmann/Python">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=Python&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grietzmann/links">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=links&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
