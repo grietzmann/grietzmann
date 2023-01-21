@@ -11,7 +11,7 @@
 * Maikel Grutzmann, 26 anos
 * Desenvolvedor Java
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
-* 0 Years, 9 Months and 19 Days since I started programming
+* 0 Years, 9 Months and 20 Days since I started programming
 
 ## **Minhas habilidades:**
 <details>
@@ -108,6 +108,9 @@
 <a href="https://github.com/grietzmann/Stylescss">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=Stylescss&theme=moltack&border_radius=20"/>
   </a>
+<a href="https://github.com/grietzmann/semana-frontend-mundo-invertido">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=semana-frontend-mundo-invertido&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grietzmann/roadmaps">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=roadmaps&theme=moltack&border_radius=20"/>
   </a>
@@ -119,9 +122,6 @@
   </a>
 <a href="https://github.com/grietzmann/trilha-html-modulo-1">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=trilha-html-modulo-1&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grietzmann/Deus-e-bom">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=Deus-e-bom&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
