@@ -109,4 +109,4 @@
 
 <hr>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DCA46&center=true&vCenter=true&width=750&lines=Assim+que%2C+se+algu%C3%A9m+est%C3%A1+em+Cristo%3A;nova+criatura+%C3%A9%2C;as+coisas+velhas+j%C3%A1+passaram;e+que+tudo+se+fez+novo.+;2+Cor%C3%ADntios+5%3A17)](https://git.io/typing-svg)
