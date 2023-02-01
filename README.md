@@ -11,7 +11,7 @@
 * Maikel Grutzmann, 26 anos
 * Desenvolvedor Java
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
-* 0 Years, 10 Months and 0 Days since I started programming
+* 1 Year, 4 Months and 1 Day since I started programming
 
 ## **Minhas habilidades:**
 <details>
@@ -117,13 +117,7 @@
 <a href="https://github.com/grietzmann/roadmaps">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=roadmaps&theme=moltack&border_radius=20"/>
   </a>
-<a href="https://github.com/grietzmann/4noobs">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=4noobs&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grietzmann/grietzmann">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grietzmann&repo=grietzmann&theme=moltack&border_radius=20"/>
-  </a>
 
 <hr>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DCA46&center=true&vCenter=true&width=750&lines=Assim+que%2C+se+algu%C3%A9m+est%C3%A1+em+Cristo%3A;nova+criatura+%C3%A9%2C;as+coisas+velhas+j%C3%A1+passaram;e+que+tudo+se+fez+novo.+;2+Cor%C3%ADntios+5%3A17)](https://git.io/typing-svg)
