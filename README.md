@@ -11,7 +11,7 @@
 * Maikel Grutzmann, 26 anos
 * Desenvolvedor Java
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
-* 2 Years, 7 Months and 27 Days since I started programming
+* 2 Years, 7 Months and 28 Days since I started programming
 
 ## **Minhas habilidades:**
 <details>
